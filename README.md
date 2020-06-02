@@ -32,7 +32,7 @@ You're free to use these policies in your own organization under the [Creative C
 Edit them. Adapt them to your needs. Share them. Put them to work.
 
 An example of a brief, unobtrusive [attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) for your own policies that you've based on ours:
-> Adapted from the [{{ product_name }} open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+> Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Here's how you could re-share your own policies under [a CC license with attribution](https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license#Adding_a_CC_license_to_your_derivative_work):
-> MyCorp policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [{{ product_name }} open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+> MyCorp policies are open source, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
